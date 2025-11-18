@@ -41,19 +41,18 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 ### 🧭 **Procedure**
 
 1. Open **STM32CubeIDE**.
-<img width="1902" height="1199" alt="image" src="https://github.com/user-attachments/assets/c9392478-89bd-4c01-af0f-bec9644755d0" />
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/e280790f-559d-4d37-bebe-ba4772218d59" />
 
 2. Click **File → New STM32 Project**.
-   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/a5799efb-57e1-42b8-ba46-b09f32d86fcb" />
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/edf33429-8eea-4857-a991-c2d7706fc787" />
-
+ <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/2f4dfcb0-2b37-459b-a674-6ff0a29f7a34" />
+ 
 3. Select the **target microcontroller** or board and click **Next**.
    <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
 
 
 
 4. Name the project.
-   <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
+<img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/9b6e51e9-5ff9-4ae6-9581-a5e2b85f9629" />
 
 5. The corresponding `.ioc` file will be generated automatically.
   <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/8900847c-6745-43e2-9ecf-2e66877fdc49" />
@@ -66,8 +65,9 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/dbf4b205-5db9-4e9b-8150-94f441c8b116" />
  
 8. Edit the generated main program as required.
-   <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/05b39060-35d6-420d-9f4d-8721439bd82f" />
-<img width="1104" height="621" alt="image" src="https://github.com/user-attachments/assets/2ec55709-a45f-4e6e-8738-6aa94138eab1" />
+  <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/047f0f0e-6872-42eb-8f98-7c44832bb36f" />
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/181462f7-da73-43b1-bcc4-d9259ec00c66" />
+
 
 9. Click **Project → Build All**.
     <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/264cd0a8-3e96-4668-822e-838ecfafc527" />
@@ -76,7 +76,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
     <img width="1053" height="465" alt="image" src="https://github.com/user-attachments/assets/478187a0-0ee6-4c50-9cac-c3b5ee18521b" />
 
 11. Click **Debug** and connect the **STM Nucleo Board**.
-    <img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/f72fff44-6073-4ae4-aa78-0da455df9af1" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/75e503a9-cdf8-4c66-a083-f7e29c4ad440" />
 
 13. Click **Run** to execute the program.
     
@@ -109,9 +109,10 @@ int main(void)
 ---
 ### OUTPUT
 CASE 1: LED ON 
-![on](https://github.com/user-attachments/assets/97f9e7a7-d66a-434d-98bd-b16c099e03fc)
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/53dd2294-edd2-440e-9d4d-8d0adb27b794" />
+
 CASE 2: LED OFF
-![off](https://github.com/user-attachments/assets/e91c7437-4344-4d39-a2be-0feb7d88934d)
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/46ee2048-8570-46fa-9522-afa0797216c2" />
 
 ---
 ### RESULT
